@@ -37,7 +37,7 @@ Chaque image est aplatie en un vecteur de **784 pixels**.
 - Jupyter Notebook / Google Colab
 
 ---
-![resultat de mon IA] (Capture d'écran 2026-02-05 000900.png)
+![resultat de mon IA](Capture d'écran 2026-02-05 000900.png)
 
 ## ⚙️ Installation & exécution
 
